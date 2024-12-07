@@ -10,7 +10,7 @@ import {
   SidebarMenuButton,
   SidebarMenuItem,
 } from "@/components/ui/sidebar"
-const homePage = () => {
+const home_page = () => {
 
     const items = [
         {
@@ -64,4 +64,4 @@ const homePage = () => {
   )
 }
 
-export default homePage
+export default home_page
